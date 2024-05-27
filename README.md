@@ -5,7 +5,8 @@ Machine Learning (ML) is a type of Artificial Intelligence (AI) that allows soft
 Supervised learning is a type of Machine Learning of training a computer on a set of labeled data. This means that the data has been pre-classified, so the model knows what the correct output should be for each input.
 
 Linear regression is a statistical technique used in machine learning to model the relationship between a dependent variable (the outcome we want to predict) and one or more independent variables (features or factors that influence the outcome). It assumes that the relationship between the variables can be approximated by a straight line.
-![linear regression]()
+## Diagram
+![linear regression](images/linear_regression.gif)
 
 Lets say you are a House valuer finding the price of a client's house. You have a dataset that includes information about several houses, such as the size of the house (in square feet), the number of bedrooms, and the age of the house. You also have the corresponding prices at which each house was sold.
 
