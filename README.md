@@ -8,6 +8,8 @@ Linear regression is a statistical technique used in machine learning to model t
 ## Diagram
 ![linear regression](images/linear_regression.gif)
 
+Image Source: [Medium](https://images.app.goo.gl/cLfGKsQqXBZQTVpA6) 
+
 Lets say you are a House valuer finding the price of a client's house. You have a dataset that includes information about several houses, such as the size of the house (in square feet), the number of bedrooms, and the age of the house. You also have the corresponding prices at which each house was sold.
 
 Linear regression works by finding a straight line (a mathematical equation) that best fits the relationship between the features (size, bedrooms, age) and the house prices. The goal is to find a line that minimizes the difference between the actual house prices and the predicted prices given by the line.
