@@ -49,3 +49,5 @@ print("Predicted price for the client house:", rounded_price)
 ```
 ## Output
 ![jupyter](images/jupyter_notebook.png)
+
+If you need assistance with any specific step, feel free to ask.
